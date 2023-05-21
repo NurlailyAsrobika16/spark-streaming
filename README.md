@@ -7,16 +7,15 @@
 | Metode 1: Mode Stateless Stream Processing | |
 |---|---|
 | Interval waktu per 1 detik | Interval waktu per 5 detik |
-| <img src="01_stateless/1.png" width="900"> <br><img src="01_stateless/2.png" width="900"> | <img src="01_stateless/3.png" width="300"> <img src="01_stateless/4.png" width="900">  |
+| <img src="01_stateless/1.png" width="900"> <br> <img src="01_stateless/2.png" width="900"> | <img src="01_stateless/3.png" width="900"> <br> <img src="01_stateless/4.png" width="900"> |
 
 | Metode 2: Mode Stateful Stream Processing | |
 |---|---|
 | Interval waktu per 1 detik | Interval waktu per 5 detik |
-| <img src="02_stateful/4.png" width="900"><br> <img src="02_stateful/5.png" width="900"> <br><img src="02_stateful/6.png" width="900"> | <img src="02_stateful/7.png" width="300"><br><img src="02_stateful/8.png" width="900"> |
+| <img src="02_stateful/4.png" width="900"> <br> <img src="02_stateful/5.png" width="900"> <br> <img src="02_stateful/6.png" width="900"> | <img src="02_stateful/7.png" width="900"> <br> <img src="02_stateful/8.png" width="900"> |
 
 ## Melakukan Transformasi di Spark Streaming
 
 | Interval waktu per 1 detik | Interval waktu per 5 detik |
 |---|---|
-| <img src="03_transformasi_word_sentiment/1.png" width="900"><br> <img src="03_transformasi_word_sentiment/2.png" width="900">| <img src="03_transformasi_word_sentiment/3.png" width="300"><br><img src="03_transformasi_word_sentiment/4.png" width="900"> |
-
+| <img src="03_transformasi_word_sentiment/1.png" width="900"> <br> <img src="03_transformasi_word_sentiment/2.png" width="900"> | <img src="03_transformasi_word_sentiment/3.png" width="900"> <br> <img src="03_transformasi_word_sentiment/4.png" width="900"> |
