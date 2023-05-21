@@ -5,15 +5,24 @@
 
 
 ## Praktik Dasar Spark Streaming
+### A. file network_wordcount.py
+interval waktu per 1 detik
 <img src="02_stateful/1.png" alt="gambar 1" width="700">
 <img src="02_stateful/2.png" alt="gambar 2" width="700">
+interval waktu per 5 detik
 <img src="02_stateful/3.png" alt="gambar 3" width="700">
+
+### B. file stateful_network_wordcount.py
+interval waktu per 1 detik
 <img src="02_stateful/4.png" alt="gambar 4" width="700">
 <img src="02_stateful/5.png" alt="gambar 5" width="700">
 <img src="02_stateful/6.png" alt="gambar 6" width="700">
+interval waktu per 5 detik
 <img src="02_stateful/7.png" alt="gambar 7" width="700">
 
 ## Melakukan Transformasi di Spark Streaming
+interval waktu per 5 detik
 <img src="03_transformasi_word_sentiment/1.png" alt="gambar 1" width="700">
 <img src="03_transformasi_word_sentiment/2.png" alt="gambar 2" width="700">
+interval waktu per 5 detik
 <img src="03_transformasi_word_sentiment/3.png" alt="gambar 3" width="700">
