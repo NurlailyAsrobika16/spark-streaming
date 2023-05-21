@@ -7,8 +7,7 @@
 | Metode 1: Mode Stateless Stream Processing | |
 |---|---|
 | Interval waktu per 1 detik | Interval waktu per 5 detik |
-| <img src="01_stateless/1.png" width="700"> | <img src="01_stateless/3.png" width="700"> |
-| <img src="01_stateless/2.png" width="700"> | <img src="01_stateless/4.png" width="700"> |
+| <img src="01_stateless/1.png" width="700"> <img src="01_stateless/2.png" width="700"> | <img src="01_stateless/3.png" width="700"> <img src="01_stateless/4.png" width="700">  |
 
 | Metode 2: Mode Stateful Stream Processing | |
 |---|---|
