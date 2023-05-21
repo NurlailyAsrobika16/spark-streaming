@@ -10,8 +10,8 @@ interval waktu per 1 detik
 <img src="01_stateless/1.png" alt="gambar 1" width="700">
 <img src="01_stateless/2.png" alt="gambar 2" width="700"><br>
 interval waktu per 5 detik
-<img src="01_stateless/3.png" alt="gambar 3" width="700">
-<img src="01_stateless/4.png" alt="gambar 4" width="400">
+<img src="01_stateless/3.png" alt="gambar 3" width="400">
+<img src="01_stateless/4.png" alt="gambar 4" width="700">
 
 ### Metode 2: Mode Stateful Stream Processing
 interval waktu per 1 detik
