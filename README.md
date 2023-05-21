@@ -17,7 +17,7 @@
 | ![Gambar 5](02_stateful/5.png) | ![Gambar 8](02_stateful/8.png) |
 | ![Gambar 6](02_stateful/6.png) | |
 
-## Melakukan Transformasi di Spark Streaming
+## Melakukan Transformasi di Spark Streamingg
 
 | **Interval waktu per 1 detik** | **Interval waktu per 5 detik** |
 |---|---|
