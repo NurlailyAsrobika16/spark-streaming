@@ -18,7 +18,7 @@ interval waktu per 1 detik
 <img src="02_stateful/5.png" alt="gambar 5" width="700">
 <img src="02_stateful/6.png" alt="gambar 6" width="700"> <br>
 interval waktu per 5 detik
-<img src="02_stateful/7.png" alt="gambar 7" width="700">
+<img src="02_stateful/7.png" alt="gambar 7" width="400">
 <img src="02_stateful/8.png" alt="gambar 8" width="700">
 
 ## Melakukan Transformasi di Spark Streaming
