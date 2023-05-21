@@ -42,7 +42,7 @@
 <br>
 <img src="03_transformasi_word_sentiment/2.png" width="700">
 
-**Interval waktu per 5 detik**
+**Interval waktu per 5 detikk**
 
 <img src="03_transformasi_word_sentiment/3.png" width="300">
 <br>
