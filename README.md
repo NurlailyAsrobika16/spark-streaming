@@ -9,7 +9,7 @@
 **Interval waktu per 1 detik**
 <img src="01_stateless/1.png" width="700">
 
-<img src="01_stateless/2.png" width="700"><br>
+<img src="01_stateless/2.png" width="700">
 
 **Interval waktu per 5 detik**
 <img src="01_stateless/3.png" width="300">
@@ -23,7 +23,7 @@
 
 <img src="02_stateful/5.png" width="700">
 
-<img src="02_stateful/6.png" width="700"> <br>
+<img src="02_stateful/6.png" width="700">
 
 **Interval waktu per 5 detik**
 <img src="02_stateful/7.png" width="300">
@@ -35,7 +35,7 @@
 **Interval waktu per 1 detik**
 <img src="03_transformasi_word_sentiment/1.png" width="700">
 
-<img src="03_transformasi_word_sentiment/2.png" width="700"><br>
+<img src="03_transformasi_word_sentiment/2.png" width="700">
 
 **Interval waktu per 5 detik**
 <img src="03_transformasi_word_sentiment/3.png" width="300">
