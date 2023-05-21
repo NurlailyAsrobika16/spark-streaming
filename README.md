@@ -14,9 +14,8 @@
 
 **Interval waktu per 5 detik**
 
-**Interval waktu per 5 detik**
 <img src="01_stateless/3.png" width="300">
-
+<br>
 <img src="01_stateless/4.png" width="700">
 
 ### Metode 2: Mode Stateful Stream Processing
@@ -31,9 +30,8 @@
 
 **Interval waktu per 5 detik**
 
-**Interval waktu per 5 detik**
 <img src="02_stateful/7.png" width="300">
-
+<br>
 <img src="02_stateful/8.png" width="700">
 
 ## Melakukan Transformasi di Spark Streaming
@@ -46,7 +44,6 @@
 
 **Interval waktu per 5 detik**
 
-**Interval waktu per 5 detik**
 <img src="03_transformasi_word_sentiment/3.png" width="300">
-
+<br>
 <img src="03_transformasi_word_sentiment/4.png" width="700">
