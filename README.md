@@ -4,24 +4,39 @@
 
 ## Praktik Dasar Spark Streaming
 
-| Metode 1: Mode Stateless Stream Processing      |     |
-|------------------------------------------------|-----|
-| Interval waktu per 1 detik                      |     |
-| <img src="01_stateless/1.png" alt="Gambar 1" width="400"> | <img src="01_stateless/2.png" alt="Gambar 2" width="400"> |
-| Interval waktu per 5 detik                      |     |
-| <img src="01_stateless/3.png" alt="Gambar 3" width="400"> | <img src="01_stateless/4.png" alt="Gambar 4" width="400"> |
+### Metode 1: Mode Stateless Stream Processing
 
-| Metode 2: Mode Stateful Stream Processing       |     |
-|------------------------------------------------|-----|
-| Interval waktu per 1 detik                      |     |
-| <img src="02_stateful/4.png" alt="Gambar 4" width="400"> | <img src="02_stateful/5.png" alt="Gambar 5" width="400"> |
-| <img src="02_stateful/6.png" alt="Gambar 6" width="400"> |     |
-| Interval waktu per 5 detik                      |     |
-| <img src="02_stateful/7.png" alt="Gambar 7" width="400"> | <img src="02_stateful/8.png" alt="Gambar 8" width="400"> |
+Interval waktu per 1 detik:
+
+![Gambar 1](01_stateless/1.png)
+![Gambar 2](01_stateless/2.png)
+
+Interval waktu per 5 detik:
+
+![Gambar 3](01_stateless/3.png)
+![Gambar 4](01_stateless/4.png)
+
+### Metode 2: Mode Stateful Stream Processing
+
+Interval waktu per 1 detik:
+
+![Gambar 4](02_stateful/4.png)
+![Gambar 5](02_stateful/5.png)
+![Gambar 6](02_stateful/6.png)
+
+Interval waktu per 5 detik:
+
+![Gambar 7](02_stateful/7.png)
+![Gambar 8](02_stateful/8.png)
 
 ## Melakukan Transformasi di Spark Streaming
 
-| Interval waktu per 5 detik                      |     |
-|------------------------------------------------|-----|
-| <img src="03_transformasi_word_sentiment/1.png" alt="Gambar 1" width="400"> | <img src="03_transformasi_word_sentiment/2.png" alt="Gambar 2" width="400"> |
-| <img src="03_transformasi_word_sentiment/3.png" alt="Gambar 3" width="400"> | <img src="03_transformasi_word_sentiment/4.png" alt="Gambar 4" width="400"> |
+Interval waktu per 5 detik:
+
+![Gambar 1](03_transformasi_word_sentiment/1.png)
+![Gambar 2](03_transformasi_word_sentiment/2.png)
+
+Interval waktu per 5 detik:
+
+![Gambar 3](03_transformasi_word_sentiment/3.png)
+![Gambar 4](03_transformasi_word_sentiment/4.png)
