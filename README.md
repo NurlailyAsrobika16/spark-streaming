@@ -1,12 +1,12 @@
 # Tugas Praktikum
 <ol>
-  <li>Jelaskan perbedaan Spark Streaming dengan metode stateless dan stateful stream processing?</li>
+  <li>Jelaskan perbedaan Spark Streaming dengan metode stateless dan stateful stream processing?</li> <br>
     <p>
-      Stateless Stream Processing:
+      Stateless Stream Processing:<br>
 Stateless stream processing dalam Spark Streaming tidak menyimpan atau mengingat informasi atau data yang telah diproses sebelumnya. Setiap data yang masuk dianggap sebagai entitas yang mandiri dan diproses secara terpisah. Ini berarti bahwa setiap data diproses secara independen, tidak memerlukan informasi dari data sebelumnya untuk menghasilkan hasil yang akurat.
 Contoh penggunaan stateless stream processing adalah ketika ingin melakukan transformasi atau operasi sederhana pada setiap data yang masuk, seperti pemetaan (mapping) atau filtrasi (filtering). Setiap data dianggap sebagai entitas terpisah, dan tidak ada kebutuhan untuk menyimpan status sebelumnya.
 
-Stateful Stream Processing:
+Stateful Stream Processing:<br>
 Stateful stream processing dalam Spark Streaming melibatkan penyimpanan informasi atau data sebelumnya selama aliran data. Dalam metode ini, Spark Streaming memungkinkan pengguna untuk menyimpan dan menggunakan informasi atau data historis dalam pemrosesan data streaming saat ini.
 Misalnya, dalam kasus penghitungan frekuensi kemunculan kata-kata dalam aliran teks,kita perlu mengingat dan memperbarui jumlah kata-kata yang muncul sebelumnya saat aliran data berlanjut. Informasi ini disimpan dalam status (state) dan diperbarui setiap kali data baru masuk. Dengan menggunakan status sebelumnya, Anda dapat melacak dan memperbarui hasil dengan akurat dalam pemrosesan streaming yang berkelanjutan.
      <p>
