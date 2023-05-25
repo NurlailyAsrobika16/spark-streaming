@@ -18,7 +18,7 @@ Misalnya, dalam kasus penghitungan frekuensi kemunculan kata-kata dalam aliran t
 <ol>
   <li>
     <p>
-      <strong>- sys.argv:</strong> Ini adalah daftar dalam modul sys di Python yang memberikan akses ke argumen baris perintah yang dilewatkan ke sebuah skrip. Ini memungkinkan Anda untuk mengakses argumen yang dilewatkan ke skrip Python saat dieksekusi dari baris perintah.
+      <strong>- sys.argv:</strong> Ini adalah daftar dalam modul sys di Python yang memberikan akses ke argumen baris perintah yang dilewatkan ke sebuah skrip. Ini memungkinkan kita untuk mengakses argumen yang dilewatkan ke skrip Python saat dieksekusi dari baris perintah.
     </p>
     <p>
       <strong>- sys.stderr:</strong> Ini adalah objek mirip file dalam modul sys di Python yang mewakili aliran kesalahan standar. Digunakan untuk mencetak pesan kesalahan dan informasi traceback.
@@ -69,7 +69,7 @@ Misalnya, dalam kasus penghitungan frekuensi kemunculan kata-kata dalam aliran t
       <strong>- parallelize:</strong> Ini adalah metode dalam SparkContext Apache Spark yang digunakan untuk membuat RDD dari koleksi data dalam program pengemudi. Mendistribusikan data ke beberapa partisi untuk memungkinkan pemrosesan paralel.
     </p>
     <p>
-      <strong>- updateStateByKey:</strong> Ini adalah operasi transformasi dalam Apache Spark Streaming yang memungkinkan Anda untuk mempertahankan informasi status sembarang di beberapa batch data. Digunakan untuk memperbarui status suatu kunci berdasarkan data masukan baru dan fungsi pembaruan yang ditentukan oleh pengguna.
+      <strong>- updateStateByKey:</strong> Ini adalah operasi transformasi dalam Apache Spark Streaming yang memungkinkan kita untuk mempertahankan informasi status sembarang di beberapa batch data. Digunakan untuk memperbarui status suatu kunci berdasarkan data masukan baru dan fungsi pembaruan yang ditentukan oleh pengguna.
     </p>
     <p>
       <strong>- flatMap:</strong> Ini adalah operasi transformasi dalam Apache Spark yang digunakan untuk mengubah setiap elemen RDD menjadi nol atau lebih elemen keluaran. Mengambil fungsi sebagai argumen dan menerapkannya pada setiap elemen masukan untuk menghasilkan elemen keluaran.
